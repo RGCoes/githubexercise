@@ -9,5 +9,9 @@ public class GoeiePoging {
         System.out.println("Hallo");
     }
 
+    public void tweedeMethode(){
+        System.out.println("methode op vertakkingC");
+    }
+
 }
 
