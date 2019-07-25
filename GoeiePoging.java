@@ -11,6 +11,7 @@ public class GoeiePoging {
 
     public void tweedeMethode(){
         System.out.println("methode op vertakkingC");
+        System.out.println("aanpassing op de methode na commit");
     }
 
 }
