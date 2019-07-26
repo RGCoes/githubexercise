@@ -9,5 +9,9 @@ public class GoeiePoging {
         System.out.println("Hallo");
     }
 
+    public void derdeMethode(){
+        System.out.println("derde methode op branch vertakkingB na commit van tweedemethode op vertakkingC");
+    }
+
 }
 
